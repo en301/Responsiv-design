@@ -1,0 +1,31 @@
+table,th ,td{
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+
+table{
+    width: 750px;
+    height: 500px;
+    margin: 0 auto;
+}
+
+caption{
+    caption-side: bottom;
+    font-size: 40px;
+}
+
+.blue{
+    background-color: blue;
+}
+.red{
+    background-color: red;
+}
+.yellow{
+    background-color: yellow;
+}
+.black{
+    background-color: black;
+}
+.green{
+    background-color: green;
+}
