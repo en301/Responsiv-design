@@ -1,6 +1,9 @@
 body{
     background-color: lightblue;
     margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 section{
@@ -8,5 +11,8 @@ section{
     width: 100vh;
     height: 100vh;
     border-radius: 100%;
-    margin: 0 auto;
+
+}
+
+@media screen and (max-width: 820px){
 }
